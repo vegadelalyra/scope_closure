@@ -1,0 +1,20 @@
+{
+  "name": "scope_closure",
+  "version": "1.0.0",
+  "description": "Platzi course about scope and closures in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vegadelalyra/scope_closure.git"
+  },
+  "keywords": [],
+  "author": "Vega <lyradeperseo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vegadelalyra/scope_closure/issues"
+  },
+  "homepage": "https://github.com/vegadelalyra/scope_closure#readme"
+}
